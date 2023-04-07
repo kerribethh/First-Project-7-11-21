@@ -1,7 +1,6 @@
 body ,
 html {
-    color: white
-    height: 100%;   
+    color: white   
 }
 
 #hero {
@@ -46,7 +45,7 @@ html {
 
 .item {
     background-color: lightgray;
-    color: #212121;
+    color: #dad5d5;
     margin: .25em;
     padding: .5em;
 }
